@@ -12,16 +12,6 @@ public class WrapperClass {
 	static String inputaadhaarNumber="7867657565767";
 	static String inputpannumber="876vhh767";
 
-//	//1. Customer ID //	* Accept as String. //	* Convert it to Integer.
-//	2. Customer Name //	* Accept as String. //	* Store as String.
-//	3. Customer Age //	* Accept as String. //	* Convert it to Integer.
-//	* Customer age must be 18 or above. 
-//	4. Monthly Salary //	* Accept as String. //	* Convert it to Double.
-//	5. Account Balance //	* Accept as String. //	* Convert it to Double.
-//	6. Mobile Number //	* Accept as String. //	* Convert it to Long.
-//	7. Aadhaar Number //	* Accept as String. //	* Convert it to Long.
-//	8. PAN Number //	* Store as String.
-//	9.Display all customer details after conversion
 	public static void main(String[] args) {
 		
 		int customerID = Integer.parseInt(inputcustomerID);
